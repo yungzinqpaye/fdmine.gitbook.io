@@ -10,6 +10,7 @@
   * [Пещеры](informaciya/quickstart/peshery.md)
   * [Метки смертей](informaciya/quickstart/metki-smertei.md)
   * [Большая карта](informaciya/quickstart/bolshaya-karta.md)
+* [Подписки](informaciya/podpiski.md)
 
 ## 📙 Руководства
 
