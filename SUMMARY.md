@@ -24,3 +24,4 @@
 * [Brewery](rukovodstva/brewery.md)
 * [Ивенты](rukovodstva/iventy/README.md)
   * [Хэллоуинский ивент](rukovodstva/iventy/khellouinskii-ivent.md)
+* [Цветные названия предметов](rukovodstva/cvetnye-nazvaniya-predmetov.md)
