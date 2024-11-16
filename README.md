@@ -21,7 +21,7 @@ layout:
 Для начала игры на нашем сервере, рекомендуется присоединиться к нашему [дискорду](https://discord.gg/uqzCND38qp) и прочесть правила и интересующие Вас руководства здесь!
 {% endhint %}
 
-## [Правила ](informaciya/markdown.md)- [Магазин](https://app.gitbook.com/o/NMqEeih844Ewl3Pr7kvZ/s/7AvluYTZfwHoDcbKmSnR/) - [Дискорд](https://discord.gg/uqzCND38qp) - [Ответы на Вопросы](informaciya/chasto-zadavaemye-voprosy.md)
+## [Правила ](informaciya/markdown.md)- [Магазин](https://store.fdmine.ru/) - [Дискорд](https://discord.gg/uqzCND38qp) - [Ответы на Вопросы](informaciya/chasto-zadavaemye-voprosy.md)
 
 Присоединится к игре можно по доменам:
 
